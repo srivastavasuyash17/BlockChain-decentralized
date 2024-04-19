@@ -1,70 +1,27 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Blockchain Image Storage README
 
-## Available Scripts
+Overview:
+This README provides a brief introduction to our decentralized image storing application built on blockchain technology.
 
-In the project directory, you can run:
+Description:
+Our application leverages blockchain technology to provide a decentralized and immutable image storage solution. Images uploaded to the platform are securely stored across a distributed network of nodes, ensuring data integrity and availability.
 
-### `npm start`
+Features:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Decentralized Storage: Images are stored across multiple nodes in the blockchain network, eliminating the need for a central server.
+Immutable Records: Once uploaded, images cannot be altered or deleted, ensuring data integrity.
+Transparent Transactions: All image uploads and transactions are recorded on the blockchain, providing transparency and accountability.
+Access Control: Users have full control over their images and can manage access permissions as desired.
+Cryptographic Security: Images are encrypted and stored using cryptographic techniques, ensuring data security.
+How to Use:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Upload Image: Users can upload images to the platform using the provided interface.
+View Images: Uploaded images can be viewed and accessed from any device connected to the blockchain network.
+Manage Access: Users can manage access permissions for their images, controlling who can view or interact with them.
+Transaction History: Users can view the transaction history associated with each image, providing transparency into its lifecycle.
+Installation:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Clone the repository from GitHub.
+Install the necessary dependencies using npm or yarn.
+Run the application locally or deploy it to a blockchain network.
